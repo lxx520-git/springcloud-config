@@ -1,1 +1,2 @@
-this is dev yml  version:1
+config:
+  info: "this is dev yml  version=1"
